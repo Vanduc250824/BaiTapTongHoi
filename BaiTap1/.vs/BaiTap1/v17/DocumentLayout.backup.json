@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code Lung Tung\\Java\\CShap\\BaiTap1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42510D8E-EF8D-40BC-8A05-5258EEF96BA2}|BaiTapTongHop.csproj|d:\\code lung tung\\java\\cshap\\baitap1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42510D8E-EF8D-40BC-8A05-5258EEF96BA2}|BaiTapTongHop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42510D8E-EF8D-40BC-8A05-5258EEF96BA2}|BaiTapTongHop.csproj|d:\\code lung tung\\java\\cshap\\baitap1\\baitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42510D8E-EF8D-40BC-8A05-5258EEF96BA2}|BaiTapTongHop.csproj|solutionrelative:baitap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BaiTap.cs",
+              "DocumentMoniker": "D:\\Code Lung Tung\\Java\\CShap\\BaiTap1\\BaiTap.cs",
+              "RelativeDocumentMoniker": "BaiTap.cs",
+              "ToolTip": "D:\\Code Lung Tung\\Java\\CShap\\BaiTap1\\BaiTap.cs",
+              "RelativeToolTip": "BaiTap.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAAAHkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T01:31:34.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code Lung Tung\\Java\\CShap\\BaiTap1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Code Lung Tung\\Java\\CShap\\BaiTap1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T01:03:57.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

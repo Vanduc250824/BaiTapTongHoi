@@ -1,0 +1,14 @@
+D:\Code Lung Tung\Java\CShap\BaiTap1\bin\Debug\net8.0\BaiTap1.exe
+D:\Code Lung Tung\Java\CShap\BaiTap1\bin\Debug\net8.0\BaiTap1.deps.json
+D:\Code Lung Tung\Java\CShap\BaiTap1\bin\Debug\net8.0\BaiTap1.runtimeconfig.json
+D:\Code Lung Tung\Java\CShap\BaiTap1\bin\Debug\net8.0\BaiTap1.dll
+D:\Code Lung Tung\Java\CShap\BaiTap1\bin\Debug\net8.0\BaiTap1.pdb
+D:\Code Lung Tung\Java\CShap\BaiTap1\obj\Debug\net8.0\BaiTap1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code Lung Tung\Java\CShap\BaiTap1\obj\Debug\net8.0\BaiTap1.AssemblyInfoInputs.cache
+D:\Code Lung Tung\Java\CShap\BaiTap1\obj\Debug\net8.0\BaiTap1.AssemblyInfo.cs
+D:\Code Lung Tung\Java\CShap\BaiTap1\obj\Debug\net8.0\BaiTap1.csproj.CoreCompileInputs.cache
+D:\Code Lung Tung\Java\CShap\BaiTap1\obj\Debug\net8.0\BaiTap1.dll
+D:\Code Lung Tung\Java\CShap\BaiTap1\obj\Debug\net8.0\refint\BaiTap1.dll
+D:\Code Lung Tung\Java\CShap\BaiTap1\obj\Debug\net8.0\BaiTap1.pdb
+D:\Code Lung Tung\Java\CShap\BaiTap1\obj\Debug\net8.0\BaiTap1.genruntimeconfig.cache
+D:\Code Lung Tung\Java\CShap\BaiTap1\obj\Debug\net8.0\ref\BaiTap1.dll
